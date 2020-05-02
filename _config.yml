@@ -1,11 +1,11 @@
 # Site settings
-author: Jay Roth
-title: 
+author: Jay
+title: My Coding Journey
 header-img: img/home-bg.png
 email: 253jay@gmail.com
-copyright_name: Jay Roth
+copyright_name: Jay
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Fun times
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  253Jay
